@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "315813457537",
+    "firebase_url": "https://uas-chatapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-chatapp",
+    "storage_bucket": "uas-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315813457537:android:d858f8bf81ab8e6fb4a780",
+        "android_client_info": {
+          "package_name": "com.emptybox.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60Xb2aiefN5XeuucIEyrxrbOQL9c_tzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315813457537:android:620429e726101858b4a780",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60Xb2aiefN5XeuucIEyrxrbOQL9c_tzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
